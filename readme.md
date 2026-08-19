@@ -1,6 +1,6 @@
-### Título
+### Proyecto Final DL
 
-**Hola**
+**Contenido**
 
-- Primer bullet
+- Código Final del desarrollo del modelo para Segmentación Semántica expuesto.
 - Segundo bullet
